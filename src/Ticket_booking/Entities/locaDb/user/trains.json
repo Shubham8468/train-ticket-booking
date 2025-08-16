@@ -1,0 +1,46 @@
+[
+  {
+    "train_id": "basc",
+    "train_no": 12345,
+    "train_name": "Anand Bihar Express",
+    "seats":[
+     [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_time": {
+      "lucknow": "13:39:00",
+      "Mau": "13:20:00",
+      "Anand Bihar": "24:40:00"
+    },
+    "station": [
+      "Lucknow",
+      "Mau",
+      "Dilh"
+    ]
+  },
+  {
+    "train_id": "bauc",
+    "train_no": 12349,
+    "train_name": "Mau Bihar Express",
+    "seats":[
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0],
+      [0,0,0,0,0,0]
+    ],
+    "station_time": {
+      "Gorakhpur": "13:39:00",
+      "Mau": "13:20:00",
+      "Bihar": "24:40:00"
+    },
+    "station": [
+      "Gorakhpur",
+      "Mau",
+      "Bihar"
+    ]
+  }
+]

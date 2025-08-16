@@ -1,0 +1,33 @@
+[
+  {
+    "user_id"  : "12345",
+    "name" : "Shubham",
+    "hashPassward" : "abcd12344",
+    "tickets_booked": [
+      {
+        "source": "Lucknow",
+        "destination": "Mau",
+        "date_of_travel": "2025-12-08T18:00Z",
+        "train": {
+          "train_id": "bacs",
+          "train_no": 12345,
+          "seats": [
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0],
+            [0,0,0,0,0]
+          ],
+          "stations": {
+            "Lucknow": "13:50:00",
+            "mau": "18:50:00 ",
+            "Anand Bihar": "24:30:00",
+            "Dilhi": "1:30:00"
+
+          }
+        }
+      }
+    ]
+
+
+  }
+]
